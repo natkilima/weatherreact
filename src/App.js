@@ -1,13 +1,15 @@
 //import logo from "./logo.svg";
 import "./App.css";
 //import axios from "axios";
+import SearchForm from "./SearchForm";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Coucou le monde</h1>
-      </header>
+      <div>
+        <h1> Weather App </h1>
+        <SearchForm />
+      </div>
     </div>
   );
 }
