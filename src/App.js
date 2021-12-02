@@ -11,7 +11,11 @@ function App() {
         <SearchForm />
       </div>
       <div className="Link">
-        <a href="https://github.com/natkilima/weatherreact" target="_blank">
+        <a
+          href="https://github.com/natkilima/weatherreact"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open-source code by Nathalie Rognon
         </a>
       </div>
