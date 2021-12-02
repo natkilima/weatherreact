@@ -10,6 +10,11 @@ function App() {
         <h1> Weather App </h1>
         <SearchForm />
       </div>
+      <div className="Link">
+        <a href="https://github.com/natkilima/weatherreact" target="_blank">
+          Open-source code by Nathalie Rognon
+        </a>
+      </div>
     </div>
   );
 }
